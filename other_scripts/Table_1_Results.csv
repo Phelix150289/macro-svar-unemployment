@@ -1,0 +1,7 @@
+Horizon,Output_AS,Output_AD,Output_NRU,Inflation_AS,Inflation_AD,Inflation_NRU,Unemployment_AS,Unemployment_AD,Unemployment_NRU
+h0,5,44,51,6,52,42,37,20,43
+h4,5,39,56,10,67,24,11,29,60
+h8,14,26,61,9,68,23,7,21,72
+h20,22,11,67,10,68,23,3,10,86
+h40,26,5,69,10,68,23,2,5,93
+hInf,30,0,70,NaN,NaN,NaN,0,0,100
